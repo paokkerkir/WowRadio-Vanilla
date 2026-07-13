@@ -5,8 +5,10 @@
 local WR_STATIONS = {
 
 	-- game / special
-	{ "http://romeblue7.myvnc.com:8088/stream",                 	        "Out of Bounds Entertainment",                                                   "GAME"       },
-	{ "http://radio.nexushoster.com:8000/radio.mp3",                 	    "Azeroth Radio",                   				                                 "GAME"       },
+	{ "http://radio.octowow.st/listen/booty_bay_pirate_radio/radio.mp3",    "Booty Bay Pirate Radio",                    					                    "GAME"        },
+	{ "http://radio.octowow.st/listen/booty_bay_pirate_radio_thematic_tower/radio.mp3", "Booty Bay Pirate Radio (Thematic Tower)",                              "GAME"        },
+	{ "http://outofbounds.live:8000/radio.mp3",                 	        "Out of Bounds Entertainment",                                                      "GAME"        },
+	{ "http://radio.nexushoster.com:8000/radio.mp3",                 	    "Azeroth Radio",                    				                                "GAME"        },
 
 	-- news / talk / comedy
 	{ "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",             "BBC World Service - International news, analysis, and talk radio",              "TALK"       },
